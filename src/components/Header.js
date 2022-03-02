@@ -7,8 +7,8 @@ export default function Header() {
                 src= {trollFace} 
                 className="header--image"
             />
-            <h2 className="header--title">Meme Generator - Form Test</h2>
-            <h4 className="header--project">Pre-loaded data of 100 memes</h4>
+            <h2 className="header--title">Meme Generator - API Test</h2>
+            <h4 className="header--project">API data of 100 memes</h4>
         </header>
     )
 }
